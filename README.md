@@ -1,8 +1,17 @@
 ### Olá, eu sou o Fernando Santana 👋
 
+- 🌱 Minhas stacks são:
+   - Java SE
+   - API's REST
+   - Spring Boot
+   - JUnit
+   - PostgreSQL
+   
+   
 - 🔭 Buscando por oportunidade como Dev backend Java ...
-- 🌱 Estudando Spring Boot ...
+
 - 📫 Entre em contato: fernando_92-@hotmail.com
+
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
