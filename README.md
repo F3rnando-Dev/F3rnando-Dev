@@ -4,7 +4,6 @@
    - Java SE
    - API's REST
    - Spring Boot
-   - JUnit
    - PostgreSQL
    
    
