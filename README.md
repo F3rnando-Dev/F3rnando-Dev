@@ -6,8 +6,7 @@
    - Spring Boot
    - PostgreSQL
    
-   
-- 🔭 Buscando por oportunidade como Dev backend Java ...
+ 
 
 - 📫 Entre em contato: fernando_92-@hotmail.com
 
