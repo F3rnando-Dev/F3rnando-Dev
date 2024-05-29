@@ -61,6 +61,12 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/F3rnando-Dev/count.svg" />
+ </p>
+
+</p>
  
 ![snake gif](https://github.com/F3rnando-Dev/F3rnando-Dev/blob/output/github-contribution-grid-snake.svg)
 
